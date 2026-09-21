@@ -19,6 +19,12 @@ preserves links back to the source.
 [View the project][jev-site] · [Read the source][jev-repo] ·
 [Star Jev Social][jev-stars]
 
+Install the versioned Agent Skill for Codex:
+
+```bash
+gh skill install socai-io/jev-social jev-social@v0.1.3 --agent codex --scope user
+```
+
 [![Jev Social routes a research goal and streams captured social evidence into
 a report][jev-demo]][jev-repo]
 
