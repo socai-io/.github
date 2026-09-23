@@ -3,17 +3,17 @@
 **Browser-grounded social research, from captured evidence to source-linked
 reports.**
 
-[Website][site] · [socai][socai-repo] · [Jev Social][jev-repo] ·
+[Website][site] · [SocAI][socai-repo] · [Jev Social][jev-repo] ·
 [Discord][discord]
 
 ## Jev Social
 
-**One research goal → Jev typed routing → socai CLI → real browser evidence →
+**One research goal → Jev typed routing → SocAI CLI → real browser evidence →
 a cited report.**
 
 Jev Social is a lightweight, MIT-licensed reference app for Instagram, TikTok,
 and LinkedIn research. It uses Jev only for bounded decisions, keeps social-site
-work inside the local socai CLI, streams post cards as evidence arrives, and
+work inside the local SocAI CLI, streams post cards as evidence arrives, and
 preserves links back to the source.
 
 [View the project][jev-site] · [Read the source][jev-repo] ·
@@ -28,19 +28,19 @@ gh skill install socai-io/jev-social jev-social@v0.1.4 --agent codex --scope use
 [![Jev Social routes a research goal and streams captured social evidence into
 a report][jev-demo]][jev-repo]
 
-## socai
+## SocAI
 
 **A local agent that actually reads social media.**
 
-socai drives the signed-in Chrome session you already use to research
+SocAI drives the signed-in Chrome session you already use to research
 Xiaohongshu, Douyin, TikTok, Instagram, and LinkedIn. It can search, open posts,
 expand comments, read profiles, capture media, run OCR or transcription, and
 retain reviewable artifacts. All platform integrations are read-only.
 
-[Visit socai.io][site] · [Get the desktop app][socai-release] ·
+[Visit SocAI.io][site] · [Get the desktop app][socai-release] ·
 [Use the CLI][socai-cli]
 
-[![socai research flow from browser discovery through reasoning to structured
+[![SocAI research flow from browser discovery through reasoning to structured
 findings][socai-banner]][socai-repo]
 
 ## More from SocAI
