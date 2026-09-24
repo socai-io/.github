@@ -19,6 +19,8 @@ preserves links back to the source.
 [View the project][jev-site] · [Read the source][jev-repo] ·
 [Star Jev Social][jev-stars]
 
+[![GitHub stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)][jev-repo]
+
 Install the versioned Agent Skill for Codex:
 
 ```bash
