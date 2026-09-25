@@ -24,7 +24,7 @@ preserves links back to the source.
 Install the versioned Agent Skill for Codex:
 
 ```bash
-gh skill install socai-io/jev-social jev-social@v0.1.5 --agent codex --scope user
+gh skill install socai-io/jev-social jev-social@v0.1.8 --agent codex --scope user
 ```
 
 [![Jev Social routes a research goal and streams captured social evidence into
