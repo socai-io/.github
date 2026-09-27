@@ -16,21 +16,21 @@ and LinkedIn research. It uses Jev only for bounded decisions, keeps social-site
 work inside the local socai CLI, streams post cards as evidence arrives, and
 preserves links back to the source.
 
-[View the project][jev-site] · [Read the source][jev-repo] ·
-[Star Jev Social][jev-stars]
+[View the project][jev-site] · [Privacy and data flow][jev-privacy] ·
+[Read the source][jev-repo] · [Star Jev Social][jev-repo]
 
 [![GitHub stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)][jev-repo]
 
 Install the versioned Agent Skill for Codex:
 
 ```bash
-gh skill install socai-io/jev-social jev-social@v0.1.8 --agent codex --scope user
+gh skill install socai-io/jev-social jev-social@v0.1.10 --agent codex --scope user
 ```
 
 [![Jev Social routes a research goal and streams captured social evidence into
 a report][jev-demo]][jev-repo]
 
-## socai
+## socai CLI
 
 **A local agent that actually reads social media.**
 
@@ -58,9 +58,9 @@ that keep evidence inspectable.
 [dsh-repo]: https://github.com/socai-io/dsh-socai
 [jev-demo]: https://raw.githubusercontent.com/socai-io/jev-social/main/docs/jev-social.gif
 [jev-launch]: https://github.com/socai-io/jev-social/discussions/6
+[jev-privacy]: https://socai-io.github.io/jev-social/privacy/
 [jev-repo]: https://github.com/socai-io/jev-social
 [jev-site]: https://socai-io.github.io/jev-social/
-[jev-stars]: https://github.com/socai-io/jev-social/stargazers
 [site]: https://socai.io/
 [socai-banner]: https://raw.githubusercontent.com/socai-io/socai/main/docs/assets/socai-readme-banner.png
 [socai-cli]: https://github.com/socai-io/socai#command-line
