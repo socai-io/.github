@@ -38,7 +38,7 @@ a report][jev-demo]][jev-repo]
 socai drives the signed-in Chrome session you already use to research
 Xiaohongshu, Douyin, TikTok, Instagram, and LinkedIn. It can search, open posts,
 expand comments, read profiles, capture media, run OCR or transcription, and
-retain reviewable artifacts. All platform integrations are read-only.
+retain reviewable artifacts. The portable Agent Skill keeps agent-driven research read-only; direct CLI actions stay explicit and user-invoked.
 
 [Visit socai.io][site] · [Get the desktop app][socai-release] ·
 [Use the CLI][socai-cli]
